@@ -1,0 +1,19 @@
+# Eclipse settings
+.project
+.classpath
+.settings/
+
+# Build output
+/bin/
+/target/
+/build/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# OS files
+.DS_Store
+Thumbs.db
