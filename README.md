@@ -65,16 +65,6 @@ sudoku-solver-java/
 
 ---
 
-## 📸 Screenshots 
-
-Here’s what the application looks like:
-
-![Fill the Grid with Numbers](pics\FillNumbers.png)
-![After that Click Solve](pics\Solve.png)
-![Click Clear to Fill Again](pics\Clear.png)
-
----
-
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
