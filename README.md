@@ -72,6 +72,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ## 🙋‍♂️ Author
-
-Keis
-GitHub: @Keis21
+[Keis](https://github.com/Keis21)
