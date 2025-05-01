@@ -22,11 +22,6 @@ The graphical user interface (GUI) is built with **JavaFX**, allowing users to i
 
 ---
 
-## 📦 Project Structure
-
-<pre> ```text sudoku-solver-java/ ├── src/ │ ├── Main.java # JavaFX application entry point │ ├── FirstStage.java # UI logic and grid handling │ └── Sudoku.java # Backtracking algorithm ├── lib/ # JavaFX SDK jars (not tracked in Git) ├── .gitignore └── README.md ``` </pre>
----
-
 ## ✅ Prerequisites
 
 1. **Java 8 or newer**
