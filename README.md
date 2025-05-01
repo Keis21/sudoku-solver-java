@@ -63,13 +63,14 @@ sudoku-solver-java/
 
 5. Run `Main.java` as a JavaFX application.
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
 ## 🙋‍♂️ Author
 [Keis](https://github.com/Keis21)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
